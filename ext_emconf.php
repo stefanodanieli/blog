@@ -8,7 +8,7 @@
  */
 
 $EM_CONF[$_EXTKEY] = [
-    'title' => 'TYPO3 Blog Extension',
+    'title' => 'TYPO3 Blog Extension Danieli',
     'description' => 'This blog extension uses TYPO3s core concepts and elements to provide a full-blown blog that users of TYPO3 can instantly understand and use.',
     'category' => 'fe',
     'state' => 'stable',
